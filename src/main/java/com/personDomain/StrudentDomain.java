@@ -15,4 +15,7 @@ public class StrudentDomain {
 	public void setName(String name) {
 		this.name = name;
 	}
+	public void getStrObject(){
+		System.out.println();
+	}
 }
