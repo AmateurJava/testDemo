@@ -16,6 +16,6 @@ public class StrudentDomain {
 		this.name = name;
 	}
 	public void getStrObject(){
-		System.out.println();
+		System.out.println("本地修改的文件");
 	}
 }
